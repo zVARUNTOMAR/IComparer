@@ -1,0 +1,13 @@
+C:\Users\R3CK3R\source\repos\ComparableDemo\ComparableDemo\obj\Debug\netcoreapp3.1\ComparableDemo.csprojAssemblyReference.cache
+C:\Users\R3CK3R\source\repos\ComparableDemo\ComparableDemo\obj\Debug\netcoreapp3.1\ComparableDemo.AssemblyInfoInputs.cache
+C:\Users\R3CK3R\source\repos\ComparableDemo\ComparableDemo\obj\Debug\netcoreapp3.1\ComparableDemo.AssemblyInfo.cs
+C:\Users\R3CK3R\source\repos\ComparableDemo\ComparableDemo\obj\Debug\netcoreapp3.1\ComparableDemo.csproj.CoreCompileInputs.cache
+C:\Users\R3CK3R\source\repos\ComparableDemo\ComparableDemo\bin\Debug\netcoreapp3.1\ComparableDemo.exe
+C:\Users\R3CK3R\source\repos\ComparableDemo\ComparableDemo\bin\Debug\netcoreapp3.1\ComparableDemo.deps.json
+C:\Users\R3CK3R\source\repos\ComparableDemo\ComparableDemo\bin\Debug\netcoreapp3.1\ComparableDemo.runtimeconfig.json
+C:\Users\R3CK3R\source\repos\ComparableDemo\ComparableDemo\bin\Debug\netcoreapp3.1\ComparableDemo.runtimeconfig.dev.json
+C:\Users\R3CK3R\source\repos\ComparableDemo\ComparableDemo\bin\Debug\netcoreapp3.1\ComparableDemo.dll
+C:\Users\R3CK3R\source\repos\ComparableDemo\ComparableDemo\bin\Debug\netcoreapp3.1\ComparableDemo.pdb
+C:\Users\R3CK3R\source\repos\ComparableDemo\ComparableDemo\obj\Debug\netcoreapp3.1\ComparableDemo.dll
+C:\Users\R3CK3R\source\repos\ComparableDemo\ComparableDemo\obj\Debug\netcoreapp3.1\ComparableDemo.pdb
+C:\Users\R3CK3R\source\repos\ComparableDemo\ComparableDemo\obj\Debug\netcoreapp3.1\ComparableDemo.genruntimeconfig.cache
