@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\R3CK3R\\.nuget\\packages\\": {}
+    "C:\\Users\\DELL\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\R3CK3R\\source\\repos\\ComparableDemo\\ComparableDemo\\ComparableDemo.csproj",
+      "projectUniqueName": "F:\\IcomparerForkTest\\IComparer\\ComparableDemo\\ComparableDemo.csproj",
       "projectName": "ComparableDemo",
-      "projectPath": "C:\\Users\\R3CK3R\\source\\repos\\ComparableDemo\\ComparableDemo\\ComparableDemo.csproj",
-      "packagesPath": "C:\\Users\\R3CK3R\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\R3CK3R\\source\\repos\\ComparableDemo\\ComparableDemo\\obj\\",
+      "projectPath": "F:\\IcomparerForkTest\\IComparer\\ComparableDemo\\ComparableDemo.csproj",
+      "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+      "outputPath": "F:\\IcomparerForkTest\\IComparer\\ComparableDemo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\R3CK3R\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
       }
     }
   }
